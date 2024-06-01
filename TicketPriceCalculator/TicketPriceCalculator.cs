@@ -2,7 +2,7 @@
 
 namespace TicketPriceCalculator
 {
-    class Program
+    class TicketPriceCalculator
     {
         static void Main(string[] args)
         {
